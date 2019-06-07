@@ -1,0 +1,30 @@
+{
+ "content": null, 
+ "creation": "2018-07-04 14:13:52.926641", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "icon": "fa fa-building", 
+ "idx": 0, 
+ "modified": "2018-08-08 14:58:48.117817", 
+ "modified_by": "Administrator", 
+ "module": "origin theme", 
+ "name": "home-page", 
+ "owner": "Administrator", 
+ "page_name": "Home Page", 
+ "roles": [
+  {
+   "role": "System Manager"
+  }, 
+  {
+   "role": "Agency Staff"
+  }, 
+  {
+   "role": "Agency Owner"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "system_page": 0, 
+ "title": "Home"
+}
